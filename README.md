@@ -1,4 +1,5 @@
 ##################################################################
+
 THE CONTEXT
 ##################################################################
 
@@ -7,6 +8,7 @@ Sequence alignement is an important part of Bioinformatics. It is a necessary to
 fields like phylogeny and for the "omics" methods.
 
 ##################################################################
+
 THE PROJECT
 ##################################################################
 
@@ -23,6 +25,7 @@ Input : several sequence to align in FASTA format
 Output : a graphical representation of the alignment
 
 ##################################################################
+
 USAGE
 ##################################################################
 
