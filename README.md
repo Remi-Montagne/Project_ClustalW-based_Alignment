@@ -23,8 +23,9 @@ which is then used to guide sequence aligment.
 
 Be aware that once sequences are in the same cluster, they will not be re-aligned against each other.
 
-Input : several sequence to align in FASTA format
-Output : a graphical representation of the alignment
+Input : several sequences to align in FASTA format.
+
+Output : a graphical representation of the alignment.
 
 ##################################################################
 
@@ -33,7 +34,7 @@ USAGE
 ##################################################################
 
 
-1) Download all the .java files. THe main is in the Sequences class (with an "s")
+1) Download all the java files. The main() is in the Sequences class (with an "s")
 
 2) In bash type : javac Sequences.java
 
