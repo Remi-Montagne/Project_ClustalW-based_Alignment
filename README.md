@@ -21,7 +21,7 @@ The proximity between sequences and the order of alignment is assessed by UPGMA 
 (Unweighted Pair Group Method with Arithmetic Mean). UPGMA allows to build a dendrogram
 which is then used to guide sequence aligment.
 
-Be aware that once sequences are the same cluster will not be re-aligned against each other.
+Be aware that once sequences are in the same cluster, they will not be re-aligned against each other.
 
 Input : several sequence to align in FASTA format
 Output : a graphical representation of the alignment
